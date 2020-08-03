@@ -1,7 +1,8 @@
-# desktop-screen-recorder
+# Electron Screen Recorder
 
-App made with electron (tutorial).
+![cover](https://github.com/sagerg/desktop-screen-recorder/blob/master/cover.png)
 
-Reference for this project: https://youtu.be/3yqDxhR2XxE
+It's a desktop application made with [Electron](https://www.electronjs.org/docs).
 
-Credits to 'Fireship.io' for the project.
+Main reference for this project: https://youtu.be/3yqDxhR2XxE
+Credits to [Fireship.io](https://fireship.io/) for the tutorial!
